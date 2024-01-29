@@ -595,35 +595,37 @@ img{
     }
     .div3{
         height: 300px;
-        width: 400px;
+        width: 100%;
     }
     .div4{
         height: 300px;
-        width: 400px;
+        width:100%;
     }
     .div5{
         height: 300px;
-        width: 400px;
+        width: 100%;
     }
     .div6{
         height: 300px;
-        width: 400px;
+        width: 100%;
     }
     .div7{
         height: 300px;
-        width: 400px;
+        width: 100%;
     }
     .div8{
         height: 300px;
-        width: 400px;
+        width: 100%;
     }
     .div9{
         height: 300px;
-        width: 400px;
+        width: 100%;
+
     }
     .div10{
         height: 300px;
-        width: 400px;
+        width: 100%;
+
     }
     .div11{
         height: fit-content;
