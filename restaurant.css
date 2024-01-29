@@ -18,7 +18,7 @@
 }
 .child{
     height: 110px;
-    width: 395px;
+    width: 100%;
     float: left;
     background-color:black;
     /* border: 4px rebeccapurple solid; */
@@ -62,7 +62,7 @@ a:link{
     background-repeat: no-repeat;
     background-position: center;
     animation: anim 3s ease-in 2s infinite ;
-    width: 103%;
+    width: 100%;
     
     
 }
