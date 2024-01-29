@@ -555,7 +555,7 @@ img{
 .trigger:not(:visited)+.container1 .div12{
     transform:translateX(0);
 }
-@media screen and (max-width:500px) and (max-height:500px){
+@media screen and (max-width:768px){
    .div2{
      text-align: center;
    }
