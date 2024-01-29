@@ -191,11 +191,11 @@ a:link{
 
 @keyframes anim{
     0%{
-        background-image: url("./images/dosa.webp");
+        background-image: url("./Images/dosa.webp");
         margin-right: 40px;
     }
     50%{
-        background-image: url("./images/bread2.jpg");
+        background-image: url("./Images/bread2.jpg");
         margin-right: 50px;
     }
 
