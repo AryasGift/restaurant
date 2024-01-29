@@ -555,6 +555,19 @@ img{
 .trigger:not(:visited)+.container1 .div12{
     transform:translateX(0);
 }
+@media screen and (min-width: 769px) {
+    .child2 {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        width: 100%;
+        padding: 0 20px;
+    }
+
+    .child2 a {
+        margin-left: 20px;
+    }
+}
 @media screen and (max-width:768px){
    .div2{
      text-align: center;
@@ -672,5 +685,16 @@ img{
     .div9 h4{
         padding-left: 110px;
     }
+
+    .child2 {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+    }
+    .child2 a {
+            margin: 10px 0;
+        }
+    
 }
 
