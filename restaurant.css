@@ -576,6 +576,9 @@ img{
         margin: 0;
         overflow-x: hidden;
     }
+    .div1{
+        width: fit-content;
+    }
    .div2{
      text-align: center;
    }
