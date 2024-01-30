@@ -14,7 +14,7 @@
 .body{
     margin:0;
     padding: 0;
-    overflow-x: hidden;
+   
 }
 .child{
     height: 110px;
@@ -63,10 +63,7 @@ a:link{
     background-position: center;
     animation: anim 3s ease-in 2s infinite ;
     width: 100%;
-    
-    
 }
-
 .div1 h1{
      font-family: 'Crete Round', serif;
      font-family: 'Great Vibes', cursive;
@@ -78,6 +75,11 @@ a:link{
     font-size: 70px;
     color: white;
     padding-top: 200px;
+}
+.div1 p{
+    padding-left: 150px;
+    font-size: 25px;
+    color: white;
 }
 .div2{
     width: 100%;
@@ -573,6 +575,7 @@ img{
     }
     .div1{
         width: fit-content;
+        height: fit-content;
     }
    .div2{
      text-align: center;
@@ -678,7 +681,7 @@ img{
         height: 900px;
         width: 100%;
     } 
-    p{
+    .div1 p{
          text-align: left;
         font-size: 5px;
         padding-right: 5px;
