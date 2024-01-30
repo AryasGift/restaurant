@@ -700,6 +700,10 @@ img{
     .child2{
         display: none;
     }
+    .div1 p{
+        padding-left: 0%;
+        font-size: 15px;
+    }
     
 }
 
