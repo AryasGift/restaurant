@@ -684,7 +684,7 @@ img{
         width: 100%;
     } 
     .div1 p{
-        padding-left: 10px;
+         text-align: left;
         font-size: 5px;
         padding-right: 5px;
     }
@@ -700,10 +700,7 @@ img{
     .child2{
         display: none;
     }
-    .div1 p{
-        padding-left: 0%;
-        font-size: 15px;
-    }
+   
     
 }
 
