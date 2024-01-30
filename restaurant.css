@@ -575,7 +575,7 @@ img{
     }
     .div1{
         width: fit-content;
-        height: fit-content;
+        height:max-content;
     }
    .div2{
      text-align: center;
